@@ -62,7 +62,7 @@
   "private": false,
   "devDependencies": {
     "ajv": "^6.5.2",
-    "chromedriver": "^100",
+    "chromedriver": "^119",
     "clang-format": "^1.2.4",
     "es6-template-strings": "^2.0.1",
     "eslint": "5.16.0",
